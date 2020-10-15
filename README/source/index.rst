@@ -10,7 +10,7 @@ VMEDAQ
    :maxdepth: 3
    :caption: content:
 
-感谢您选择 VMEDAQ。更多开源程序，请访问我们组的 `Github <https://github.com/pkuNucExp>`_ 和 `吴鸿毅的Github <https://github.com/wuhongyi>`_
+感谢您选择 PKU VMEDAQ。更多开源程序，请访问我们的 `Github <https://github.com/pkuNucExp>`_ 和 `吴鸿毅的Github <https://github.com/wuhongyi>`_
 
 #################################
 
@@ -52,3 +52,16 @@ VMEDAQ
    online.rst
    r2root.rst
    statistics.rst
+
+#################################
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 可编程逻辑
+
+   DT5495.rst
+   DT5495INSTALL.rst
+   DT5495GUI.rst
+   
+
+	     

@@ -4,9 +4,9 @@
 .. Author: Hongyi Wu(吴鸿毅)
 .. Email: wuhongyi@qq.com 
 .. Created: 六 8月  5 12:10:59 2017 (+0800)
-.. Last-Updated: 六 12月 28 21:59:18 2019 (+0800)
+.. Last-Updated: 四 10月 15 11:03:25 2020 (+0800)
 ..	     By: Hongyi Wu(吴鸿毅)
-..     Update #: 28
+..     Update #: 32
 .. URL: http://wuhongyi.cn 
 
 .. 请勿修改主目录下的 README.rst，该文件 由 README/source/README.rst 复制生成。
@@ -44,7 +44,7 @@
 准预览版本
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**准预览版本 2018.12.28**  
+**准预览版本 2020.05.14**  
 
 程序下载请访问:  `VMEDAQ <https://github.com/wuhongyi/VMEDAQ>`_ 
 
@@ -58,17 +58,17 @@
 
 本程序历史维护：
 
-- 李智焕
-- 李晶
+- `李智焕 <https://github.com/zhihuanli>`_ 
+- `李晶 <https://github.com/nijinger>`_ 
 - 臧宏亮
 - 吴鸿毅(wuhongyi@qq.com / wuhongyi@pku.edu.cn)
 
-说明书贡献者（按姓名笔画排序）：
+说明书贡献者：
 
-- 王东玺（中国原子能科学研究院）
+- `王东玺（中国原子能科学研究院） <https://github.com/dragon-xi>`_  
 - 孙立杰（中国原子能科学研究院）
-- 吴鸿毅
-
+- `武晨光 <https://github.com/mission-young>`_  
+- `吴鸿毅 <https://github.com/wuhongyi>`_
 
   
 ----
@@ -78,6 +78,7 @@
 ---------------------------------
 
 - 本获取经过 Scientific Linux 6/7 系统测试。
+- 程序默认支持控制器CAEN V1718/V2718，CAEN V830 Scaler，CAEN V7xx 系列 ADC/QDC/TDC，CAENV1190/V1290 TDC，MESYTEC MADC32  
 - 支持多个机箱同步获取。将插件分散在多个机箱，可大大减少数据传输的死时间。
 - 本获取分软件 busy 跟硬件 busy 两种模式。
 - 对软件 busy 模式
