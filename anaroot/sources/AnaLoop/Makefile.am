@@ -1,1 +1,0 @@
-SUBDIRS = Core Example EncExample
